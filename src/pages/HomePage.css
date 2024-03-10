@@ -1,0 +1,69 @@
+#main{
+    width: 1000px;
+    height:600px;
+    margin-left:25%;
+    background-color: black;
+    background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5%;
+  }
+  #login-btn{
+    position: absolute;
+    right:16%;
+    bottom:85%;
+    background-color: rgb(128, 212, 218);
+  }
+  #sign-in-btn{
+    position: absolute;
+    /*top: 0;*/
+    right: 15%;
+    margin: 1rem;
+    background-color: rgb(128, 212, 218);
+  }
+  /*#main1{
+    background-color: rgb(107, 172, 204);
+    height: 350px;
+    width:500px;
+    margin-bottom: 20%;
+    padding-top: 5%;
+    text-align: center;
+  }*/
+  #title{
+    color:black;
+    font:50px;
+    text-align: center;
+  }
+  #categ{
+    color:black;
+    font: 40px;
+    text-align: center;
+  }
+  #opt{
+    font:30px;
+    color:black;
+    margin-left: 42%;
+    text-align: center;
+    background-color: rgb(158, 221, 226);
+  }
+  #num{
+    font:50px;
+    color:black;
+    text-align: center;
+  }
+  #numDrop{
+    margin-bottom:10%;
+    color:black;
+    text-align: center;
+    margin-left:48%;
+    background-color:rgb(176, 231, 235);
+  }
+  #gen{
+    margin-bottom:80%;
+    text-align: center;
+    margin-left:45%;
+    background-color: rgb(224, 229, 238);
+    /*will-change: filter;
+    transition: filter 300ms;*/
+  }

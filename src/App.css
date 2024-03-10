@@ -60,7 +60,6 @@
   background-color:rgb(176, 231, 235);
 }
 #gen{
-  margin-bottom:80%;
   text-align: center;
   margin-left:45%;
   background-color: rgb(224, 229, 238);
@@ -70,6 +69,7 @@
 #selec{
   text-align: center;
   margin-bottom: 50px;
+  margin-bottom:80%;
 }
 #quote-container {
   text-align: center;

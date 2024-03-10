@@ -80,7 +80,7 @@ function App() {
           </button>
         </div>
         {/* Display the selected quote */}
-        <div id="quote-contain">
+        <div>
           <h3 id="selec">{selectedQuote}</h3>
         </div>
       </div>
